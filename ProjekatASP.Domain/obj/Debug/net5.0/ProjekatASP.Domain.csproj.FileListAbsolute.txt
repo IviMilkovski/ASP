@@ -1,0 +1,12 @@
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\bin\Debug\net5.0\ProjekatASP.Domain.deps.json
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\bin\Debug\net5.0\ProjekatASP.Domain.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\bin\Debug\net5.0\ProjekatASP.Domain.pdb
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.csproj.AssemblyReference.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.AssemblyInfoInputs.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.AssemblyInfo.cs
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\refint\ProjekatASP.Domain.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ProjekatASP.Domain.pdb
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Domain\obj\Debug\net5.0\ref\ProjekatASP.Domain.dll
