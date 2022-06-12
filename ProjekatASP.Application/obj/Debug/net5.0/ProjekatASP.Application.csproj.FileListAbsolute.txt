@@ -1,0 +1,15 @@
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\bin\Debug\net5.0\ProjekatASP.Application.deps.json
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\bin\Debug\net5.0\ProjekatASP.Application.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\bin\Debug\net5.0\ProjekatASP.Application.pdb
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\bin\Debug\net5.0\ProjekatASP.Domain.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\bin\Debug\net5.0\ProjekatASP.Domain.pdb
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.csproj.AssemblyReference.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.AssemblyInfoInputs.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.AssemblyInfo.cs
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.csproj.CopyComplete
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\refint\ProjekatASP.Application.dll
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ProjekatASP.Application.pdb
+C:\Users\Iva\Desktop\ProjekatASP\ProjekatASP.Application\obj\Debug\net5.0\ref\ProjekatASP.Application.dll

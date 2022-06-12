@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjekatASP.Domain\ProjekatASP.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Categories\" />
+    <Folder Include="Commands\Comments\" />
+    <Folder Include="Commands\Users\" />
+    <Folder Include="Commands\UserUseCases\" />
+    <Folder Include="Commands\Posts\" />
+    <Folder Include="Exceptions\" />
+  </ItemGroup>
+
+</Project>

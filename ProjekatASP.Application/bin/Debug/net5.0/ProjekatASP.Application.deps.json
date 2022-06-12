@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjekatASP.Application/1.0.0": {
+        "dependencies": {
+          "ProjekatASP.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProjekatASP.Application.dll": {}
+        }
+      },
+      "ProjekatASP.Domain/1.0.0": {
+        "runtime": {
+          "ProjekatASP.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjekatASP.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjekatASP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
