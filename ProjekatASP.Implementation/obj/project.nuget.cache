@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TnvMuIXAC0AqsGLC8j1j1Y7soqt6xHq840lChGjEkDNvTYUQsc0bMHRYslFla6/zIY6YxGy9FsvXYBc0VLQvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iva\\Desktop\\ProjekatASP\\ProjekatASP.Implementation\\ProjekatASP.Implementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iva\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Iva\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

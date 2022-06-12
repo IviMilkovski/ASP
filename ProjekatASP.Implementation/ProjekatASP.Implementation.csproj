@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjekatASP.Application\ProjekatASP.Application.csproj" />
+    <ProjectReference Include="..\ProjekatASP.Domain\ProjekatASP.Domain.csproj" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+		<PackageReference Include="Dapper" Version="2.0.123" />
+		<PackageReference Include="FluentValidation" Version="11.0.1" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Logging\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+</Project>
